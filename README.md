@@ -2,6 +2,8 @@
 
 Found it hard to understand the docs here: https://cloud.google.com/iot/docs/how-tos/mqtt-bridge and no examples online, so wrote my own.
 
+This blog explains how to setup communication between an Android app and Cloud IoT Core.: https://blog.blundellapps.co.uk/tut-google-cloud-iot-core-mqtt-on-android/
+
 Using MQTT to talk between an AndroidThings board and Cloud IoT Core Pub/Sub
 
 
